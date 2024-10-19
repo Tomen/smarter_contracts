@@ -1,7 +1,7 @@
 [package]
 name = "the_button"
-version = "0.1.0"
-authors = ["[your_name] <[your_email]>"]
+version = "1.0.0"
+authors = ["alice_und_bob <tommi.enenkel@gmail.com>"]
 edition = "2021"
 
 [dependencies]
